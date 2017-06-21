@@ -21,7 +21,7 @@ The program will be user friendly and not require much instruction. However, the
 
 Edward Kim: https://github.com/jimmy04500
 
-Chris Hsiao
+Chris Hsiao: https://github.com/chipsandtea
 
 ## Responsibility List: 	
 
